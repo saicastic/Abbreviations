@@ -1,1 +1,1 @@
-<h1 style="text-align: center" align="center">ABBREVIATIONS</h1>
+<h1 align="center">ABBREVIATIONS</h1>
