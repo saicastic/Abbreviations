@@ -8,6 +8,8 @@
 
 <h2>GIT / Github</h2>
 
+<h2>Devops</h2>
+
 <h2>AWS</h2>
 
 <h2>Kubernetes</h2>
