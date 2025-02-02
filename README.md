@@ -8,6 +8,8 @@
 
 <h2>GIT / Github</h2>
 
+<h2>Computer Networks</h2>
+
 <h2>Devops</h2>
 
 <h2>AWS</h2>
@@ -23,3 +25,5 @@
 <h2>NodeJs</h2>
 
 <h2>Express</h2>
+
+<h2>SQL</h2>
