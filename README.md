@@ -48,3 +48,5 @@
 <h2>SQL</h2>
 
 <h2>Python</h2>
+
+1.  **PIP** : PIP installs packages
