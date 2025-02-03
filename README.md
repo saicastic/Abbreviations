@@ -23,6 +23,8 @@
 <h2>Devops</h2>
 
 1. **CI** : Continuous Integration
+2. **CD** : Continuous Deployment
+3. **CI/CD** : Continuous Integration/Continuous Deployment
 
 <h2>AWS</h2>
 
