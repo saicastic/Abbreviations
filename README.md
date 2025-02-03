@@ -29,6 +29,7 @@
 <h2>AWS</h2>
 
 1. **AWS** : Amazon Web Services
+2. **EC2** : Elastic Compute Cloud
 
 <h2>Kubernetes</h2>
 
