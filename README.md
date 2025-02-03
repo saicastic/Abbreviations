@@ -2,9 +2,11 @@
 
 <h2>HTML</h2>
 
-1.  **HTML** : Hyper Text Markup Language
+1. **HTML** : Hyper Text Markup Language
 
 <h2>CSS</h2>
+
+1. **CSS** : Cascading Style Sheets
 
 <h2>JS</h2>
 
