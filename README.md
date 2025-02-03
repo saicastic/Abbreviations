@@ -24,6 +24,8 @@
 
 <h2>AWS</h2>
 
+1. **AWS** : Amazon Web Services
+
 <h2>Kubernetes</h2>
 
 <h2>Docker</h2>
