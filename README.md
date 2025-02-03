@@ -49,6 +49,7 @@
 <h2>SQL</h2>
 
 1. **SQL** : Structured Query Language
+2. **DDL** : Data Definition Language
 
 <h2>Python</h2>
 
