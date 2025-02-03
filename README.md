@@ -47,6 +47,8 @@
 
 <h2>SQL</h2>
 
+1. **SQL** : Structured Query Language
+
 <h2>Python</h2>
 
 1.  **PIP** : PIP installs packages
