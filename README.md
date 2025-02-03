@@ -10,6 +10,8 @@
 
 <h2>JS</h2>
 
+1. **JS** : JavaScript
+
 <h2>GIT / Github</h2>
 
 <h2>Computer Networks</h2>
