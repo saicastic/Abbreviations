@@ -18,6 +18,8 @@
 
 <h2>Computer Networks</h2>
 
+1. **OSI** : Open Systems Interconnection
+
 <h2>Devops</h2>
 
 <h2>AWS</h2>
