@@ -22,6 +22,8 @@
 
 <h2>Devops</h2>
 
+1. **CI** : Continuous Integration
+
 <h2>AWS</h2>
 
 1. **AWS** : Amazon Web Services
