@@ -3,6 +3,7 @@
 <h2>HTML</h2>
 
 1. **HTML** : Hyper Text Markup Language
+2. **DOM** : Document Object Model
 
 <h2>CSS</h2>
 
