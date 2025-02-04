@@ -30,6 +30,11 @@
 
 1. **AWS** : Amazon Web Services
 2. **EC2** : Elastic Compute Cloud
+3. **EBS** : Elastic Block Storage
+4. **RDS** : Relational Database Service
+5. **S3** : Simple Storage Service
+6. **SNS** : Simple Notification Service
+7. **SQS** : Simple Queue Service
 
 <h2>Kubernetes</h2>
 
