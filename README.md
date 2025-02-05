@@ -4,6 +4,9 @@
 
 1. **API** : Application Programming Interface
 2. **UPI** : Unified Payment Interface
+3. **URL** : Uniform Resource Locator
+4. **URI** : Uniform Resource Identifier
+5. **UUID** : Universally Unique Identifier
 
 <h2>HTML</h2>
 
