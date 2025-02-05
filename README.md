@@ -31,6 +31,7 @@
 1. **JS** : JavaScript
 2. **JSON** : JavaScript Object Notation
 3. **JSX** : JavaScript XML
+4. **ES6** : ECMAScript 6
 
 <h2>GIT / Github</h2>
 
