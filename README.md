@@ -38,6 +38,7 @@
 9. **IMAP** : Internet Message Access Protocol
 10. **SSL** : Secure Sockets Layer
 11. **TLS** : Transport Layer Security
+12. **UDP** : User Datagram Protocol
 
 <h2>Devops</h2>
 
