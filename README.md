@@ -51,6 +51,12 @@
 10. **SSL** : Secure Sockets Layer
 11. **TLS** : Transport Layer Security
 12. **UDP** : User Datagram Protocol
+13. **DNS** : Domain Name System
+14. **DHCP** : Dynamic Host Configuration Protocol
+15. **ARP** : Address Resolution Protocol
+16. **RARP** : Reverse Address Resolution Protocol
+17. **ICMP** : Internet Control Message Protocol
+18. **IGMP** : Internet Group Management Protocol
 
 <h2>Devops</h2>
 
@@ -75,10 +81,12 @@
 
 <h2>Kubernetes</h2>
 
+1. **K8s** : Kubernetes
+
 <h2>Docker</h2>
- 
- 1. **OCI**  : Open Container Initiative
- 2. **CRI**  : Container Runtime Interface
+
+1.  **OCI** : Open Container Initiative
+2.  **CRI** : Container Runtime Interface
 
 <h2>MongoDb</h2>
 
