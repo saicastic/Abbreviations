@@ -17,6 +17,8 @@
 4. **<p>** : Paragraph Tag
 5. **<h1>** : Heading 1 Tag
 6. **<iframe>** : Inline Frame
+7. **XML** : Extensible Markup Language
+8. **SVG** : Scalable Vector Graphics
 
 <h2>CSS</h2>
 
@@ -34,6 +36,7 @@
 2. **JSON** : JavaScript Object Notation
 3. **JSX** : JavaScript XML
 4. **ES6** : ECMAScript 6
+5. **GSAP** : GreenSock Animation Platform
 
 <h2>GIT / Github</h2>
 
@@ -65,6 +68,7 @@
 1. **CI** : Continuous Integration
 2. **CD** : Continuous Deployment
 3. **CI/CD** : Continuous Integration/Continuous Deployment
+4. **VM** : Virtual Machine
 
 <h2>AWS</h2>
 
@@ -92,6 +96,9 @@
 
 <h2>MongoDb</h2>
 
+1. **MDB** : MongoDB
+2. **Mongo** : Humongous
+
 <h2>React</h2>
 
 <h2>NodeJs</h2>
@@ -110,3 +117,4 @@
 <h2>Python</h2>
 
 1.  **PIP** : PIP installs packages
+2.  **PIPENV** : PIP + Virtual Environment
