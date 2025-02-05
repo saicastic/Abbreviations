@@ -13,9 +13,9 @@
 
 1. **HTML** : Hyper Text Markup Language
 2. **DOM** : Document Object Model
-3. **<a>** : Anchor Tag
-4. **<p>** : Paragraph Tag
-5. **<h1>** : Heading 1 Tag
+3. **a** : Anchor Tag
+4. **p** : Paragraph Tag
+5. **h1** : Heading 1 Tag
 6. **<iframe>** : Inline Frame
 7. **XML** : Extensible Markup Language
 8. **SVG** : Scalable Vector Graphics
