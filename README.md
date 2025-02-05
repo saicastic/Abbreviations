@@ -1,5 +1,10 @@
 <h1 align="center">ABBREVIATIONS</h1>
 
+<h2>General</h2>
+
+1. **API** : Application Programming Interface
+2. **UPI** : Unified Payment Interface
+
 <h2>HTML</h2>
 
 1. **HTML** : Hyper Text Markup Language
