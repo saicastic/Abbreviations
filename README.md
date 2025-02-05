@@ -7,6 +7,7 @@
 3. **URL** : Uniform Resource Locator
 4. **URI** : Uniform Resource Identifier
 5. **UUID** : Universally Unique Identifier
+6. **CLI** : Command Line Interface
 
 <h2>HTML</h2>
 
