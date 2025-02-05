@@ -15,6 +15,7 @@
 3. **<a>** : Anchor Tag
 4. **<p>** : Paragraph Tag
 5. **<h1>** : Heading 1 Tag
+6. **<iframe>** : Inline Frame
 
 <h2>CSS</h2>
 
