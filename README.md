@@ -48,7 +48,7 @@
 5. **HTTPS** : Hypertext Transfer Protocol Secure
 6. **FTP** : File Transfer Protocol
 7. **SMTP** : Simple Mail Transfer Protocol
-8. **POP3** : Post Office Protocol 3
+8. **POP3** : Post Office Protocol 3 (Prince of Persia : fun)
 9. **IMAP** : Internet Message Access Protocol
 10. **SSL** : Secure Sockets Layer
 11. **TLS** : Transport Layer Security
