@@ -54,6 +54,11 @@
 5. **S3** : Simple Storage Service
 6. **SNS** : Simple Notification Service
 7. **SQS** : Simple Queue Service
+8. **VPC** : Virtual Private Cloud
+9. **IAM** : Identity and Access Management
+10. **ECR** : Elastic Container Registry
+11. **ECS** : Elastic Container Service
+12. **EKS** : Elastic Kubernetes Service
 
 <h2>Kubernetes</h2>
 
