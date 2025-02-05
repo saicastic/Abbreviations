@@ -83,6 +83,10 @@
 
 1. **SQL** : Structured Query Language
 2. **DDL** : Data Definition Language
+3. **DML** : Data Manipulation Language
+4. **DQL** : Data Query Language
+5. **DCL** : Data Control Language
+6. **TCL** : Transaction Control Language
 
 <h2>Python</h2>
 
