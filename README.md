@@ -9,6 +9,9 @@
 
 1. **HTML** : Hyper Text Markup Language
 2. **DOM** : Document Object Model
+3. **<a>** : Anchor Tag
+4. **<p>** : Paragraph Tag
+5. **<h1>** : Heading 1 Tag
 
 <h2>CSS</h2>
 
