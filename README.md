@@ -23,6 +23,8 @@
 <h2>JS</h2>
 
 1. **JS** : JavaScript
+2. **JSON** : JavaScript Object Notation
+3. **JSX** : JavaScript XML
 
 <h2>GIT / Github</h2>
 
