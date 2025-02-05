@@ -19,6 +19,12 @@
 <h2>CSS</h2>
 
 1. **CSS** : Cascading Style Sheets
+2. **SASS** : Syntactically Awesome Style Sheets
+3. **LESS** : Leaner Style Sheets
+4. **SCSS** : Sassy Cascading Style Sheets
+5. **BEM** : Block Element Modifier
+6. **OOCSS** : Object Oriented CSS
+7. **SMACSS** : Scalable and Modular Architecture for CSS
 
 <h2>JS</h2>
 
