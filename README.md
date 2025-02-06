@@ -2,12 +2,13 @@
 
 <h2>General</h2>
 
-1. **API** : Application Programming Interface
-2. **UPI** : Unified Payment Interface
-3. **URL** : Uniform Resource Locator
-4. **URI** : Uniform Resource Identifier
-5. **UUID** : Universally Unique Identifier
-6. **CLI** : Command Line Interface
+1. **COMPUTER** : Common Operating Machine Used for Technological and Educational Research
+2. **API** : Application Programming Interface
+3. **UPI** : Unified Payment Interface
+4. **URL** : Uniform Resource Locator
+5. **URI** : Uniform Resource Identifier
+6. **UUID** : Universally Unique Identifier
+7. **CLI** : Command Line Interface
 
 <h2>HTML</h2>
 
