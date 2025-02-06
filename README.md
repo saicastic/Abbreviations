@@ -24,6 +24,8 @@
 20. **VR/AR** : Virtual Reality/Augmented Reality
 21. **IoT** : Internet of Things
 
+<h2>File Types</h2>
+
 <h2>HTML</h2>
 
 1. **HTML** : Hyper Text Markup Language
