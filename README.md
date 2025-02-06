@@ -12,6 +12,7 @@
 8. **SIM** : Subscriber Identity Module
 9. **LTS** : Long Term Support
 10. **LTE** : Long Term Evolution
+11. **WI-FI** : Wireless Fidelity
 
 <h2>HTML</h2>
 
@@ -68,6 +69,11 @@
 18. **IGMP** : Internet Group Management Protocol
 19. **ARPA** : Advanced Research Projects Agency
 20. **ARPANET** : Advanced Research Projects Agency Network
+21. **LAN** : Local Area Network
+22. **MAN** : Metropolitan Area Network
+23. **CAN** : Controller Area Network
+24. **WLAN** : Wireless Local Area Network
+25. **WAN** : Wide Area Network
 
 <h2>Devops</h2>
 
