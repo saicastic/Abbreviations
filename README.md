@@ -19,6 +19,10 @@
 15. **ISP** : Internet Service Provider
 16. **GPS** : Global Positioning System
 17. **USB** : Universal Serial Bus
+18. **IDE** : Integrated Development Environment
+19. **UI/UX** : User Interface/User Experience
+20. **VR/AR** : Virtual Reality/Augmented Reality
+21. **IoT** : Internet of Things
 
 <h2>HTML</h2>
 
