@@ -13,6 +13,8 @@
 9. **LTS** : Long Term Support
 10. **LTE** : Long Term Evolution
 11. **WI-FI** : Wireless Fidelity
+12. **MFA** : Multi-Factor Authentication
+13. **OTP** : One-Time Password
 
 <h2>HTML</h2>
 
@@ -73,7 +75,9 @@
 22. **MAN** : Metropolitan Area Network
 23. **CAN** : Controller Area Network
 24. **WLAN** : Wireless Local Area Network
-25. **WAN** : Wide Area Network
+25. **VLAN** : Virtual Local Area Network
+26. **WAN** : Wide Area Network
+27. **VPN** : Virtual Private Network
 
 <h2>Devops</h2>
 
