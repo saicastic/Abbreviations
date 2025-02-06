@@ -15,6 +15,7 @@
 11. **WI-FI** : Wireless Fidelity
 12. **MFA** : Multi-Factor Authentication
 13. **OTP** : One-Time Password
+14. **NFT** : Non-Fungible Token
 
 <h2>HTML</h2>
 
@@ -134,3 +135,9 @@
 
 1.  **PIP** : PIP installs packages
 2.  **PIPENV** : PIP + Virtual Environment
+3.  **AI** : Artificial Intelligence
+4.  **ML** : Machine Learning
+5.  **DL** : Deep Learning
+6.  **ANN** : Artificial Neural Network
+7.  **CNN** : Convolutional Neural Network
+8.  **RNN** : Recurrent Neural Network
