@@ -16,6 +16,9 @@
 12. **MFA** : Multi-Factor Authentication
 13. **OTP** : One-Time Password
 14. **NFT** : Non-Fungible Token
+15. **ISP** : Internet Service Provider
+16. **GPS** : Global Positioning System
+17. **USB** : Universal Serial Bus
 
 <h2>HTML</h2>
 
