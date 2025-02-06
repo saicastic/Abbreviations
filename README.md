@@ -9,6 +9,9 @@
 5. **URI** : Uniform Resource Identifier
 6. **UUID** : Universally Unique Identifier
 7. **CLI** : Command Line Interface
+8. **SIM** : Subscriber Identity Module
+9. **LTS** : Long Term Support
+10. **LTE** : Long Term Evolution
 
 <h2>HTML</h2>
 
