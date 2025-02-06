@@ -87,12 +87,13 @@
 26. **WAN** : Wide Area Network
 27. **VPN** : Virtual Private Network
 
-<h2>Devops</h2>
+<h2>DevOps</h2>
 
-1. **CI** : Continuous Integration
-2. **CD** : Continuous Deployment
-3. **CI/CD** : Continuous Integration/Continuous Deployment
-4. **VM** : Virtual Machine
+1. **DevOps** : Development and Operations
+2. **CI** : Continuous Integration
+3. **CD** : Continuous Deployment
+4. **CI/CD** : Continuous Integration/Continuous Deployment
+5. **VM** : Virtual Machine
 
 <h2>AWS</h2>
 
