@@ -26,6 +26,20 @@
 
 <h2>File Types</h2>
 
+1. **PDF** : Portable Document Format
+2. **DOC** : Document
+3. **DOCX** : Document
+4. **XLS** : Excel
+5. **XLSX** : Excel
+6. **PPT** : PowerPoint
+7. **PPTX** : PowerPoint
+8. **TXT** : Text
+9. **CSV** : Comma Separated Values
+10. **JSON** : JavaScript Object Notation
+11. **XML** : Extensible Markup Language
+12. **YAML** : Yet Another Markup Language
+13. **INI** : Initialization
+
 <h2>HTML</h2>
 
 1. **HTML** : Hyper Text Markup Language
