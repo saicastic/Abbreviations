@@ -181,3 +181,4 @@
 5. **SOAR** : Security Orchestration, Automation, and Response
 6. **SOC** : Security Operations Center
 7. **CAS** : Cloud Application Security
+8. **WAF** : Web Application Firewall
