@@ -180,3 +180,4 @@
 4. **APT** : Advanced Persistent Threat
 5. **SOAR** : Security Orchestration, Automation, and Response
 6. **SOC** : Security Operations Center
+7. **CAS** : Cloud Application Security
