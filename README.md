@@ -147,6 +147,7 @@
 <h2>NodeJs</h2>
 
 1. **OAuth** : Open Authorization
+2. **JWT** : JSON Web Token
 
 <h2>Express</h2>
 
