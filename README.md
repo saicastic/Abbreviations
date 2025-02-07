@@ -104,14 +104,15 @@
 27. **VPN** : Virtual Private Network
 28. **NAT** : Network Address Translation
 29. **SSH** : Secure Shell
+30. **NAC** : Network Access Control
 
 <h2>DevOps</h2>
 
-1. **DevOps** : Development and Operations
-2. **CI** : Continuous Integration
-3. **CD** : Continuous Deployment
-4. **CI/CD** : Continuous Integration/Continuous Deployment
-5. **VM** : Virtual Machine
+1.  **DevOps** : Development and Operations
+2.  **CI** : Continuous Integration
+3.  **CD** : Continuous Deployment
+4.  **CI/CD** : Continuous Integration/Continuous Deployment
+5.  **VM** : Virtual Machine
 
 <h2>AWS</h2>
 
