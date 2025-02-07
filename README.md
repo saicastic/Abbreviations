@@ -176,3 +176,4 @@
 
 1. **DDoS** : Distributed Denial of Service
 2. **DoS** : Denial of Service
+3. **CTI** : Cyber Threat Intelligence
