@@ -173,3 +173,5 @@
 8.  **RNN** : Recurrent Neural Network
 
 <h2>Cyber Security</h2>
+
+1. **DDoS** : Distributed Denial of Service
