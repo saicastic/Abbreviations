@@ -182,3 +182,4 @@
 6. **SOC** : Security Operations Center
 7. **CAS** : Cloud Application Security
 8. **WAF** : Web Application Firewall
+9. **SSO** : Single Sign-On
