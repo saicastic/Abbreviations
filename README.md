@@ -23,6 +23,11 @@
 19. **UI/UX** : User Interface/User Experience
 20. **VR/AR** : Virtual Reality/Augmented Reality
 21. **IoT** : Internet of Things
+22. **SSD** : Solid State Drive
+23. **CD** : Compact Disc
+24. **DVD** : Digital Versatile Disc
+25. **HDD** : Hard Disk Drive
+26. **CDN** : Content Delivery Network
 
 <h2>File Types</h2>
 
