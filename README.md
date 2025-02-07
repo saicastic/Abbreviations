@@ -103,6 +103,7 @@
 26. **WAN** : Wide Area Network
 27. **VPN** : Virtual Private Network
 28. **NAT** : Network Address Translation
+29. **SSH** : Secure Shell
 
 <h2>DevOps</h2>
 
