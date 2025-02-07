@@ -102,6 +102,7 @@
 25. **VLAN** : Virtual Local Area Network
 26. **WAN** : Wide Area Network
 27. **VPN** : Virtual Private Network
+28. **NAT** : Network Address Translation
 
 <h2>DevOps</h2>
 
