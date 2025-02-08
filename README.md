@@ -182,6 +182,7 @@
 4. **DQL** : Data Query Language
 5. **DCL** : Data Control Language
 6. **TCL** : Transaction Control Language
+7. **CRUD** : Create, Read, Update, Delete
 
 <h2>Python</h2>
 
