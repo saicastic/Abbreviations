@@ -22,15 +22,16 @@
 18. **IDE** : Integrated Development Environment
 19. **UI/UX** : User Interface/User Experience
 20. **VR/AR** : Virtual Reality/Augmented Reality
-21. **IoT** : Internet of Things
-22. **SSD** : Solid State Drive
-23. **CD** : Compact Disc
-24. **DVD** : Digital Versatile Disc
-25. **HDD** : Hard Disk Drive
-26. **CDN** : Content Delivery Network
-27. **ASCII** : American Standard Code for Information Interchange
-28. **BIOS** : Basic Input/Output System
-29. **QR** : Quick Response
+21. **XR** : Extended Reality
+22. **IoT** : Internet of Things
+23. **SSD** : Solid State Drive
+24. **CD** : Compact Disc
+25. **DVD** : Digital Versatile Disc
+26. **HDD** : Hard Disk Drive
+27. **CDN** : Content Delivery Network
+28. **ASCII** : American Standard Code for Information Interchange
+29. **BIOS** : Basic Input/Output System
+30. **QR** : Quick Response
 
 <h2>File Types</h2>
 
