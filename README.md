@@ -39,6 +39,7 @@
 35. **JSP** : Java Server Pages
 36. **NASA** : National Aeronautics and Space Administration
 37. **DPI** : Dots Per Inch
+38. **GUI** : Graphical User Interface
 
 <h2>File Types</h2>
 
