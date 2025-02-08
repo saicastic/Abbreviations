@@ -46,6 +46,12 @@
 12. **YAML** : Yet Another Markup Language
 13. **INI** : Initialization
 14. **TAR** : Tape Archive
+15. **GIF** : Graphics Interchange Format
+16. **PNG** : Portable Network Graphics
+17. **JPEG** : Joint Photographic Experts Group
+18. **JPG** : Joint Photographic Experts Group
+19. **JFIF** : Joint Photographic Experts Group File Format
+20. **TIFF** : Tagged Image File Format
 
 <h2>HTML</h2>
 
