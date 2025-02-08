@@ -121,6 +121,7 @@
 29. **SSH** : Secure Shell
 30. **NAC** : Network Access Control
 31. **MAC** : Media Access Control
+32. **SMS** : Short Message Service
 
 <h2>DevOps</h2>
 
