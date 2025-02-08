@@ -37,6 +37,8 @@
 33. **JDK** : Java Development Kit
 34. **JAR** : Java Archive
 35. **JSP** : Java Server Pages
+36. **NASA** : National Aeronautics and Space Administration
+37. **DPI** : Dots Per Inch
 
 <h2>File Types</h2>
 
