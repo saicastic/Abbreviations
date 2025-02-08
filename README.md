@@ -73,6 +73,7 @@
 5. **BEM** : Block Element Modifier
 6. **OOCSS** : Object Oriented CSS
 7. **SMACSS** : Scalable and Modular Architecture for CSS
+8. **FLEX** : Flexible Box Layout
 
 <h2>JS</h2>
 
