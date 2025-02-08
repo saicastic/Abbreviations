@@ -77,6 +77,7 @@
 <h2>GIT / Github</h2>
 
 1. **GIT** : Global Information Tracker
+2. **SHA** : Secure Hash Algorithm
 
 <h2>Computer Networks</h2>
 
