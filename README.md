@@ -30,6 +30,7 @@
 26. **CDN** : Content Delivery Network
 27. **ASCII** : American Standard Code for Information Interchange
 28. **BIOS** : Basic Input/Output System
+29. **QR** : Quick Response
 
 <h2>File Types</h2>
 
