@@ -29,6 +29,7 @@
 25. **HDD** : Hard Disk Drive
 26. **CDN** : Content Delivery Network
 27. **ASCII** : American Standard Code for Information Interchange
+28. **BIOS** : Basic Input/Output System
 
 <h2>File Types</h2>
 
