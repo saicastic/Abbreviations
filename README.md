@@ -28,6 +28,7 @@
 24. **DVD** : Digital Versatile Disc
 25. **HDD** : Hard Disk Drive
 26. **CDN** : Content Delivery Network
+27. **ASCII** : American Standard Code for Information Interchange
 
 <h2>File Types</h2>
 
