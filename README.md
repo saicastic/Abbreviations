@@ -183,6 +183,7 @@
 5. **DCL** : Data Control Language
 6. **TCL** : Transaction Control Language
 7. **CRUD** : Create, Read, Update, Delete
+8. **ORM** : Object-Relational Mapping
 
 <h2>Python</h2>
 
