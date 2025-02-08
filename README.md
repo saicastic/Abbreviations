@@ -195,12 +195,15 @@
 6.  **ANN** : Artificial Neural Network
 7.  **CNN** : Convolutional Neural Network
 8.  **RNN** : Recurrent Neural Network
+9.  **LSTM** : Long Short-Term Memory
+10. **GRU** : Gated Recurrent Unit
 
 <h2>Cyber Security</h2>
 
 1. **DDoS** : Distributed Denial of Service
 2. **DoS** : Denial of Service
 3. **CTI** : Cyber Threat Intelligence
+
 4. **APT** : Advanced Persistent Threat
 5. **SOAR** : Security Orchestration, Automation, and Response
 6. **SOC** : Security Operations Center
