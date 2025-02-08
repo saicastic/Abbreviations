@@ -32,6 +32,11 @@
 28. **ASCII** : American Standard Code for Information Interchange
 29. **BIOS** : Basic Input/Output System
 30. **QR** : Quick Response
+31. **JVM** : Java Virtual Machine
+32. **JRE** : Java Runtime Environment
+33. **JDK** : Java Development Kit
+34. **JAR** : Java Archive
+35. **JSP** : Java Server Pages
 
 <h2>File Types</h2>
 
