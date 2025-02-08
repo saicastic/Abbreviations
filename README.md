@@ -122,6 +122,7 @@
 30. **NAC** : Network Access Control
 31. **MAC** : Media Access Control
 32. **SMS** : Short Message Service
+33. **MMS** : Multimedia Messaging Service
 
 <h2>DevOps</h2>
 
