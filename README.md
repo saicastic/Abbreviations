@@ -167,6 +167,7 @@
 1. **K8s** : Kubernetes
 2. **CNCF** : Cloud Native Computing Foundation
 3. **CKA** : Certified Kubernetes Administrator
+4. **ETCD** : /etc Distributed
 
 <h2>Docker</h2>
 
@@ -217,7 +218,6 @@
 1. **DDoS** : Distributed Denial of Service
 2. **DoS** : Denial of Service
 3. **CTI** : Cyber Threat Intelligence
-
 4. **APT** : Advanced Persistent Threat
 5. **SOAR** : Security Orchestration, Automation, and Response
 6. **SOC** : Security Operations Center
