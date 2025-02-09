@@ -40,6 +40,7 @@
 36. **NASA** : National Aeronautics and Space Administration
 37. **DPI** : Dots Per Inch
 38. **GUI** : Graphical User Interface
+39. **MNC** : Multi-National Company
 
 <h2>File Types</h2>
 
