@@ -41,6 +41,7 @@
 37. **DPI** : Dots Per Inch
 38. **GUI** : Graphical User Interface
 39. **MNC** : Multi-National Company
+40. **FAANG** : Facebook, Apple, Amazon, Netflix, Google
 
 <h2>File Types</h2>
 
