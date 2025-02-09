@@ -45,6 +45,7 @@
 41. **GSOC** : Google Summer of Code
 42. **CTF** : Capture The Flag
 43. **DRY** : Don't Repeat Yourself
+44. **SDK** : Software Development Kit
 
 <h2>File Types</h2>
 
