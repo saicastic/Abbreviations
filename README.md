@@ -101,6 +101,7 @@
 
 1. **GIT** : Global Information Tracker
 2. **SHA** : Secure Hash Algorithm
+3. **PR** : Pull Request
 
 <h2>Computer Networks</h2>
 
