@@ -47,6 +47,7 @@
 43. **DRY** : Don't Repeat Yourself
 44. **SDK** : Software Development Kit
 45. **MVC** : Model View Controller
+46. **LMS** : Learning Management System
 
 <h2>File Types</h2>
 
