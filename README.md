@@ -46,6 +46,7 @@
 42. **CTF** : Capture The Flag
 43. **DRY** : Don't Repeat Yourself
 44. **SDK** : Software Development Kit
+45. **MVC** : Model View Controller
 
 <h2>File Types</h2>
 
