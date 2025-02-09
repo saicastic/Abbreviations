@@ -17,7 +17,7 @@
 13. **OTP** : One-Time Password
 14. **NFT** : Non-Fungible Token
 15. **ISP** : Internet Service Provider
-16. **GPS** : Global Positioning System
+16. **GPS** : Global Positioning System (Google Play Store : fun)
 17. **USB** : Universal Serial Bus
 18. **IDE** : Integrated Development Environment
 19. **UI/UX** : User Interface/User Experience
