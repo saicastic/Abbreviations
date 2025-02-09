@@ -162,6 +162,7 @@
 <h2>Kubernetes</h2>
 
 1. **K8s** : Kubernetes
+2. **CNCF** : Cloud Native Computing Foundation
 
 <h2>Docker</h2>
 
