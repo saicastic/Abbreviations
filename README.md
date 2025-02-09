@@ -44,6 +44,7 @@
 40. **FAANG** : Facebook, Apple, Amazon, Netflix, Google
 41. **GSOC** : Google Summer of Code
 42. **CTF** : Capture The Flag
+43. **DRY** : Don't Repeat Yourself
 
 <h2>File Types</h2>
 
