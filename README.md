@@ -163,6 +163,7 @@
 
 1. **K8s** : Kubernetes
 2. **CNCF** : Cloud Native Computing Foundation
+3. **CKA** : Certified Kubernetes Administrator
 
 <h2>Docker</h2>
 
