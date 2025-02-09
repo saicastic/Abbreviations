@@ -43,6 +43,7 @@
 39. **MNC** : Multi-National Company
 40. **FAANG** : Facebook, Apple, Amazon, Netflix, Google
 41. **GSOC** : Google Summer of Code
+42. **CTF** : Capture The Flag
 
 <h2>File Types</h2>
 
