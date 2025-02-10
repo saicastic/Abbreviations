@@ -194,6 +194,8 @@
 2. **MEAN** : MongoDB, Express, Angular, Node.js
 3. **SSR** : Server Side Rendering
 4. **CSR** : Client Side Rendering
+5. **RSC** : React Server Components
+6. **SPA** : Single Page Application
 
 <h2>NodeJs</h2>
 
