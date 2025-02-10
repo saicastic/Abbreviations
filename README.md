@@ -191,6 +191,7 @@
 <h2>React</h2>
 
 1. **MERN** : MongoDB, Express, React, Node.js
+2. **MEAN** : MongoDB, Express, Angular, Node.js
 
 <h2>NodeJs</h2>
 
