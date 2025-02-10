@@ -195,6 +195,7 @@
 1. **OAuth** : Open Authorization
 2. **JWT** : JSON Web Token
 3. **NPM** : Node Package Manager
+4. **REST** : Representational State Transfer
 
 <h2>Express</h2>
 
