@@ -198,6 +198,8 @@
 6. **SPA** : Single Page Application
 7. **TSX** : TypeScript XML
 8. **JSX** : JavaScript XML
+9. **HOC** : Higher Order Component
+10. **VDOM** : Virtual Document Object Model
 
 <h2>NodeJs</h2>
 
