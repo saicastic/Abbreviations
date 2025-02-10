@@ -192,12 +192,15 @@
 
 1. **MERN** : MongoDB, Express, React, Node.js
 2. **MEAN** : MongoDB, Express, Angular, Node.js
+3. **SSR** : Server Side Rendering
+4. **CSR** : Client Side Rendering
 
 <h2>NodeJs</h2>
 
 1. **OAuth** : Open Authorization
 2. **JWT** : JSON Web Token
 3. **NPM** : Node Package Manager
+
 4. **REST** : Representational State Transfer
 
 <h2>Express</h2>
