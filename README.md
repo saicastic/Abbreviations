@@ -202,6 +202,8 @@
 
 <h2>Express</h2>
 
+1. **CORS** : Cross-Origin Resource Sharing
+
 <h2>SQL</h2>
 
 1. **SQL** : Structured Query Language
