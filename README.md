@@ -48,6 +48,7 @@
 44. **SDK** : Software Development Kit
 45. **MVC** : Model View Controller
 46. **LMS** : Learning Management System
+47. **EDA** : Event-Driven Architecture
 
 <h2>File Types</h2>
 
