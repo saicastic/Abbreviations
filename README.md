@@ -196,6 +196,8 @@
 4. **CSR** : Client Side Rendering
 5. **RSC** : React Server Components
 6. **SPA** : Single Page Application
+7. **TSX** : TypeScript XML
+8. **JSX** : JavaScript XML
 
 <h2>NodeJs</h2>
 
