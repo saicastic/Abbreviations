@@ -187,6 +187,7 @@
 
 1. **MDB** : MongoDB
 2. **Mongo** : Humongous
+3. **ODM** : Object-Document Mapping
 
 <h2>React</h2>
 
@@ -206,7 +207,6 @@
 1. **OAuth** : Open Authorization
 2. **JWT** : JSON Web Token
 3. **NPM** : Node Package Manager
-
 4. **REST** : Representational State Transfer
 
 <h2>Express</h2>
@@ -223,7 +223,6 @@
 6. **TCL** : Transaction Control Language
 7. **CRUD** : Create, Read, Update, Delete
 8. **ORM** : Object-Relational Mapping
-9. **ODM** : Object-Document Mapping
 
 <h2>Python</h2>
 
