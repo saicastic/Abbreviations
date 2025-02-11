@@ -190,6 +190,7 @@
 1. **MDB** : MongoDB
 2. **Mongo** : Humongous
 3. **ODM** : Object-Document Mapping
+4. **noSQL** : Not Only SQL
 
 <h2>React</h2>
 
