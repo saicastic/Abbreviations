@@ -150,11 +150,11 @@
 
 <h2>DevOps</h2>
 
-1.  **DevOps** : Development and Operations
-2.  **CI** : Continuous Integration
-3.  **CD** : Continuous Deployment
-4.  **CI/CD** : Continuous Integration/Continuous Deployment
-5.  **VM** : Virtual Machine
+1. **DevOps** : Development and Operations
+2. **CI** : Continuous Integration
+3. **CD** : Continuous Deployment
+4. **CI/CD** : Continuous Integration/Continuous Deployment
+5. **VM** : Virtual Machine
 
 <h2>AWS</h2>
 
@@ -181,8 +181,8 @@
 
 <h2>Docker</h2>
 
-1.  **OCI** : Open Container Initiative
-2.  **CRI** : Container Runtime Interface
+1. **OCI** : Open Container Initiative
+2. **CRI** : Container Runtime Interface
 
 <h2>MongoDb</h2>
 
@@ -227,15 +227,15 @@
 
 <h2>Python</h2>
 
-1.  **PIP** : PIP installs packages
-2.  **PIPENV** : PIP + Virtual Environment
-3.  **AI** : Artificial Intelligence
-4.  **ML** : Machine Learning
-5.  **DL** : Deep Learning
-6.  **ANN** : Artificial Neural Network
-7.  **CNN** : Convolutional Neural Network
-8.  **RNN** : Recurrent Neural Network
-9.  **LSTM** : Long Short-Term Memory
+1. **PIP** : PIP installs packages
+2. **PIPENV** : PIP + Virtual Environment
+3. **AI** : Artificial Intelligence
+4. **ML** : Machine Learning
+5. **DL** : Deep Learning
+6. **ANN** : Artificial Neural Network
+7. **CNN** : Convolutional Neural Network
+8. **RNN** : Recurrent Neural Network
+9. **LSTM** : Long Short-Term Memory
 10. **GRU** : Gated Recurrent Unit
 
 <h2>Cyber Security</h2>
