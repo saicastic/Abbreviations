@@ -86,6 +86,7 @@
 6. **<iframe>** : Inline Frame
 7. **XML** : Extensible Markup Language
 8. **SVG** : Scalable Vector Graphics
+9. **AJAX** : Asynchronous JavaScript and XML
 
 <h2>CSS</h2>
 
