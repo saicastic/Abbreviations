@@ -227,6 +227,8 @@
 7. **CRUD** : Create, Read, Update, Delete
 8. **ORM** : Object-Relational Mapping
 9. **ACID** : Atomicity, Consistency, Isolation, Durability
+10. **RDBMS** : Relational Database Management System
+11. **SOLID** : Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, Dependency Inversion
 
 <h2>Python</h2>
 
