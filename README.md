@@ -225,6 +225,7 @@
 6. **TCL** : Transaction Control Language
 7. **CRUD** : Create, Read, Update, Delete
 8. **ORM** : Object-Relational Mapping
+9. **ACID** : Atomicity, Consistency, Isolation, Durability
 
 <h2>Python</h2>
 
