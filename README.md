@@ -51,7 +51,7 @@
 47. **CMS** : Content Management System
 48. **EDA** : Event-Driven Architecture
 49. **TDD** : Test-Driven Development
-50. **SRS** : Software Requirements Specification
+50. **SRS** : Software Requirements Specification (🎊 completed 50 abbreviations)
 
 <h2>File Types</h2>
 
