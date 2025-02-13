@@ -242,8 +242,9 @@
 6. **ANN** : Artificial Neural Network
 7. **CNN** : Convolutional Neural Network
 8. **RNN** : Recurrent Neural Network
-9. **LSTM** : Long Short-Term Memory
-10. **GRU** : Gated Recurrent Unit
+9. **DNN** : Deep Neural Network
+10. **LSTM** : Long Short-Term Memory
+11. **GRU** : Gated Recurrent Unit
 
 <h2>Cyber Security</h2>
 
