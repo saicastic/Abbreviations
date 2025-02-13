@@ -252,6 +252,7 @@
 16. **TF** : Term Frequency
 17. **NLP** : Natural Language Processing
 18. **NLTK** : Natural Language Toolkit
+19. **NLG** : Natural Language Generation
 
 <h2>Cyber Security</h2>
 
