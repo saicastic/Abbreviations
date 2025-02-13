@@ -250,6 +250,7 @@
 14. **PCA** : Principal Component Analysis
 15. **TF-IDF** : Term Frequency-Inverse Document Frequency
 16. **TF** : Term Frequency
+17. **NLP** : Natural Language Processing
 
 <h2>Cyber Security</h2>
 
