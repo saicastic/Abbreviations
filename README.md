@@ -246,6 +246,7 @@
 10. **LSTM** : Long Short-Term Memory
 11. **GRU** : Gated Recurrent Unit
 12. **RBF** : Radial Basis Function
+13. **SVM** : Support Vector Machine
 
 <h2>Cyber Security</h2>
 
