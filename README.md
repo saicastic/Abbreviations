@@ -251,6 +251,7 @@
 15. **TF-IDF** : Term Frequency-Inverse Document Frequency
 16. **TF** : Term Frequency
 17. **NLP** : Natural Language Processing
+18. **NLTK** : Natural Language Toolkit
 
 <h2>Cyber Security</h2>
 
