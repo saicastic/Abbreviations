@@ -53,6 +53,7 @@
 49. **TDD** : Test-Driven Development
 50. **SRS** : Software Requirements Specification (🎊 completed 50 abbreviations)
 51. **OOP** : Object-Oriented Programming
+52. **SDLC** : Software Development Life Cycle
 
 <h2>File Types</h2>
 
