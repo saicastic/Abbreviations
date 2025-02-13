@@ -249,6 +249,7 @@
 13. **SVM** : Support Vector Machine
 14. **PCA** : Principal Component Analysis
 15. **TF-IDF** : Term Frequency-Inverse Document Frequency
+16. **TF** : Term Frequency
 
 <h2>Cyber Security</h2>
 
