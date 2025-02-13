@@ -245,6 +245,7 @@
 9. **DNN** : Deep Neural Network
 10. **LSTM** : Long Short-Term Memory
 11. **GRU** : Gated Recurrent Unit
+12. **RBF** : Radial Basis Function
 
 <h2>Cyber Security</h2>
 
