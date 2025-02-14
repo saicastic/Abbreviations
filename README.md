@@ -54,6 +54,7 @@
 50. **SRS** : Software Requirements Specification (🎊 completed 50 abbreviations)
 51. **OOP** : Object-Oriented Programming
 52. **SDLC** : Software Development Life Cycle
+53. **GPU** : Graphics Processing Unit
 
 <h2>File Types</h2>
 
@@ -254,6 +255,7 @@
 18. **NLTK** : Natural Language Toolkit
 19. **NLG** : Natural Language Generation
 20. **NLP** : Natural Language Processing
+21.
 
 <h2>Cyber Security</h2>
 
