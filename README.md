@@ -103,6 +103,8 @@
 7. **SMACSS** : Scalable and Modular Architecture for CSS
 8. **FLEX** : Flexible Box Layout
 9. **PX** : Pixel
+10. **VW** : Viewport Width
+11. **VH** : Viewport Height
 
 <h2>JS</h2>
 
