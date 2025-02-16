@@ -118,6 +118,7 @@
 3. **JSX** : JavaScript XML
 4. **ES6** : ECMAScript 6
 5. **GSAP** : GreenSock Animation Platform
+6. **YARN** : Yet Another Resource Negotiator
 
 <h2>GIT / Github</h2>
 
