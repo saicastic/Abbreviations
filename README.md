@@ -90,6 +90,7 @@
 7. **XML** : Extensible Markup Language
 8. **SVG** : Scalable Vector Graphics
 9. **AJAX** : Asynchronous JavaScript and XML
+10. **SEO** : Search Engine Optimization
 
 <h2>CSS</h2>
 
