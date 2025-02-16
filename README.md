@@ -119,6 +119,7 @@
 4. **ES6** : ECMAScript 6
 5. **GSAP** : GreenSock Animation Platform
 6. **YARN** : Yet Another Resource Negotiator
+7. **BOM** Browser Object Model
 
 <h2>GIT / Github</h2>
 
