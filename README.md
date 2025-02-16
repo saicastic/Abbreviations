@@ -108,6 +108,7 @@
 12. **HSL** : Hue Saturation Lightness
 13. **RGB** : Red Green Blue
 14. **RGBA** : Red Green Blue Alpha
+15. **REM** : Root EM (Relative to Root Font Size)
 
 <h2>JS</h2>
 
