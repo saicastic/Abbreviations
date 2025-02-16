@@ -106,6 +106,7 @@
 10. **VW** : Viewport Width
 11. **VH** : Viewport Height
 12. **HSL** : Hue Saturation Lightness
+13. **RGB** : Red Green Blue
 
 <h2>JS</h2>
 
