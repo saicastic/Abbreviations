@@ -269,3 +269,4 @@
 7. **CAS** : Cloud Application Security
 8. **WAF** : Web Application Firewall
 9. **SSO** : Single Sign-On
+10. **VIRUS** : Vital Information Resource Under Seized
