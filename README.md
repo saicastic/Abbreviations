@@ -232,6 +232,7 @@
 9. **ACID** : Atomicity, Consistency, Isolation, Durability
 10. **RDBMS** : Relational Database Management System
 11. **SOLID** : Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, Dependency Inversion
+12. **RAID** : Redundant Array of Independent Disks
 
 <h2>Python</h2>
 
