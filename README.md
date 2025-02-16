@@ -105,6 +105,7 @@
 9. **PX** : Pixel
 10. **VW** : Viewport Width
 11. **VH** : Viewport Height
+12. **HSL** : Hue Saturation Lightness
 
 <h2>JS</h2>
 
