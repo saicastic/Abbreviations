@@ -107,6 +107,7 @@
 11. **VH** : Viewport Height
 12. **HSL** : Hue Saturation Lightness
 13. **RGB** : Red Green Blue
+14. **RGBA** : Red Green Blue Alpha
 
 <h2>JS</h2>
 
