@@ -183,7 +183,7 @@
 3. **CKA** : Certified Kubernetes Administrator
 4. **ETCD** : /etc Distributed
 
-<h2>Docker</h2>
+![./assets/docker.png] <h2>Docker</h2>
 
 1. **OCI** : Open Container Initiative
 2. **CRI** : Container Runtime Interface
