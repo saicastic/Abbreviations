@@ -298,3 +298,4 @@
 15. **HIPAA** : Health Insurance Portability and Accountability Act
 16. **SIEM** : Security Information and Event Management
 17. **E2EE** : End-to-End Encryption
+18. **AES** : Advanced Encryption Standard
