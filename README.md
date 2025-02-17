@@ -295,3 +295,4 @@
 12. **IDS** : Intrusion Detection System
 13. **GDPR** : General Data Protection Regulation
 14. **HIPAA** : Health Insurance Portability and Accountability Act
+15. **SIEM** : Security Information and Event Management
