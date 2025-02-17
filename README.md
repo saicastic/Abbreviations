@@ -293,7 +293,8 @@
 10. **VIRUS** : Vital Information Resource Under Seized
 11. **CISO** : Chief Information Security Officer
 12. **IDS** : Intrusion Detection System
-13. **GDPR** : General Data Protection Regulation
-14. **HIPAA** : Health Insurance Portability and Accountability Act
-15. **SIEM** : Security Information and Event Management
-16. **E2EE** : End-to-End Encryption
+13. **IPS** : Intrusion Prevention System
+14. **GDPR** : General Data Protection Regulation
+15. **HIPAA** : Health Insurance Portability and Accountability Act
+16. **SIEM** : Security Information and Event Management
+17. **E2EE** : End-to-End Encryption
