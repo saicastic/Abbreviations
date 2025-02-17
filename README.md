@@ -296,3 +296,4 @@
 13. **GDPR** : General Data Protection Regulation
 14. **HIPAA** : Health Insurance Portability and Accountability Act
 15. **SIEM** : Security Information and Event Management
+16. **E2EE** : End-to-End Encryption
