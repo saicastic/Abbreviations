@@ -126,6 +126,7 @@
 1. **JVM** : Java Virtual Machine
 2. **JRE** : Java Runtime Environment
 3. **JDK** : Java Development Kit
+4. **WORA** : Write Once Run Anywhere
 
 <h2>GIT / Github</h2>
 
