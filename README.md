@@ -170,6 +170,7 @@
 32. **SMS** : Short Message Service
 33. **MMS** : Multimedia Messaging Service
 34. **MITM** : Man in the Middle ( Attack )
+35. **SSID** : Service Set Identifier
 
 <h2>DevOps</h2>
 
