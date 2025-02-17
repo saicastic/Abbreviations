@@ -125,6 +125,7 @@
 
 1. **JVM** : Java Virtual Machine
 2. **JRE** : Java Runtime Environment
+3. **JDK** : Java Development Kit
 
 <h2>GIT / Github</h2>
 
