@@ -291,3 +291,4 @@
 8. **WAF** : Web Application Firewall
 9. **SSO** : Single Sign-On
 10. **VIRUS** : Vital Information Resource Under Seized
+11. **CISO** : Chief Information Security Officer
