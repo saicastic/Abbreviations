@@ -169,6 +169,7 @@
 31. **MAC** : Media Access Control
 32. **SMS** : Short Message Service
 33. **MMS** : Multimedia Messaging Service
+34. **MITM** : Man in the Middle ( Attack )
 
 <h2>DevOps</h2>
 
@@ -274,7 +275,6 @@
 18. **NLTK** : Natural Language Toolkit
 19. **NLG** : Natural Language Generation
 20. **NLP** : Natural Language Processing
-21.
 
 <h2>Cyber Security</h2>
 
