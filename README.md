@@ -121,6 +121,8 @@
 6. **YARN** : Yet Another Resource Negotiator
 7. **BOM** Browser Object Model
 
+<h2>Java</h2>
+
 <h2>GIT / Github</h2>
 
 1. **GIT** : Global Information Tracker
