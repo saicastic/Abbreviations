@@ -123,6 +123,9 @@
 
 <h2>Java</h2>
 
+1. **JVM** : Java Virtual Machine
+2. **JRE** : Java Runtime Environment
+
 <h2>GIT / Github</h2>
 
 1. **GIT** : Global Information Tracker
