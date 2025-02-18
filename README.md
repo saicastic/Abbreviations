@@ -303,3 +303,4 @@
 20. **PKI** : Public Key Infrastructure
 21. **NIST** : National Institute of Standards and Technology
 22. **ZTA** : Zero Trust Architecture
+23. **RBAC** : Role-Based Access Control
