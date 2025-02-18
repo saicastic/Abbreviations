@@ -301,3 +301,4 @@
 18. **AES** : Advanced Encryption Standard
 19. **FIDO** : Fast Identity Online
 20. **PKI** : Public Key Infrastructure
+21. **NIST** : National Institute of Standards and Technology
