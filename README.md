@@ -299,3 +299,4 @@
 16. **SIEM** : Security Information and Event Management
 17. **E2EE** : End-to-End Encryption
 18. **AES** : Advanced Encryption Standard
+19. **FIDO** : Fast Identity Online
