@@ -307,3 +307,4 @@
 24. **NFC** : Near Field Communication
 25. **HDMI** : High-Definition Multimedia Interface
 26. **RISC** : Reduced Instruction Set Computing
+27. **CISC** : Complex Instruction Set Computing
