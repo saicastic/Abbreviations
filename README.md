@@ -309,3 +309,4 @@
 26. **RISC** : Reduced Instruction Set Computing
 27. **CISC** : Complex Instruction Set Computing
 28. **PWM** : Pulse Width Modulation
+29. **RFID** : Radio-Frequency Identification
