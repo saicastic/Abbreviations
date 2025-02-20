@@ -281,6 +281,7 @@
 18. **NLTK** : Natural Language Toolkit
 19. **NLG** : Natural Language Generation
 20. **NLP** : Natural Language Processing
+21. **GPT** : Generative Pre-trained Transformer
 
 <h2>Cyber Security</h2>
 
