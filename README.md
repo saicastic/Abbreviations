@@ -23,38 +23,39 @@
 19. **UI/UX** : User Interface/User Experience
 20. **VR/AR** : Virtual Reality/Augmented Reality
 21. **XR** : Extended Reality
-22. **IoT** : Internet of Things
-23. **SSD** : Solid State Drive
-24. **CD** : Compact Disc
-25. **DVD** : Digital Versatile Disc
-26. **HDD** : Hard Disk Drive
-27. **CDN** : Content Delivery Network
-28. **ASCII** : American Standard Code for Information Interchange
-29. **BIOS** : Basic Input/Output System
-30. **QR** : Quick Response
-31. **JVM** : Java Virtual Machine
-32. **JRE** : Java Runtime Environment
-33. **JDK** : Java Development Kit
-34. **JAR** : Java Archive
-35. **JSP** : Java Server Pages
-36. **NASA** : National Aeronautics and Space Administration
-37. **DPI** : Dots Per Inch
-38. **GUI** : Graphical User Interface
-39. **MNC** : Multi-National Company
-40. **FAANG** : Facebook, Apple, Amazon, Netflix, Google
-41. **GSOC** : Google Summer of Code
-42. **CTF** : Capture The Flag
-43. **DRY** : Don't Repeat Yourself
-44. **SDK** : Software Development Kit
-45. **MVC** : Model View Controller
-46. **LMS** : Learning Management System
-47. **CMS** : Content Management System
-48. **EDA** : Event-Driven Architecture
-49. **TDD** : Test-Driven Development
-50. **SRS** : Software Requirements Specification (🎊 completed 50 abbreviations)
-51. **OOP** : Object-Oriented Programming
-52. **SDLC** : Software Development Life Cycle
-53. **GPU** : Graphics Processing Unit
+22. **MR** : Mixed Reality
+23. **IoT** : Internet of Things
+24. **SSD** : Solid State Drive
+25. **CD** : Compact Disc
+26. **DVD** : Digital Versatile Disc
+27. **HDD** : Hard Disk Drive
+28. **CDN** : Content Delivery Network
+29. **ASCII** : American Standard Code for Information Interchange
+30. **BIOS** : Basic Input/Output System
+31. **QR** : Quick Response
+32. **JVM** : Java Virtual Machine
+33. **JRE** : Java Runtime Environment
+34. **JDK** : Java Development Kit
+35. **JAR** : Java Archive
+36. **JSP** : Java Server Pages
+37. **NASA** : National Aeronautics and Space Administration
+38. **DPI** : Dots Per Inch
+39. **GUI** : Graphical User Interface
+40. **MNC** : Multi-National Company
+41. **FAANG** : Facebook, Apple, Amazon, Netflix, Google
+42. **GSOC** : Google Summer of Code
+43. **CTF** : Capture The Flag
+44. **DRY** : Don't Repeat Yourself
+45. **SDK** : Software Development Kit
+46. **MVC** : Model View Controller
+47. **LMS** : Learning Management System
+48. **CMS** : Content Management System
+49. **EDA** : Event-Driven Architecture
+50. **TDD** : Test-Driven Development
+51. **SRS** : Software Requirements Specification (🎊 completed 50 abbreviations)
+52. **OOP** : Object-Oriented Programming
+53. **SDLC** : Software Development Life Cycle
+54. **GPU** : Graphics Processing Unit
 
 <h2>File Types</h2>
 
