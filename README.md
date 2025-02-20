@@ -282,6 +282,7 @@
 19. **NLG** : Natural Language Generation
 20. **GPT** : Generative Pre-trained Transformer
 21. **YOLO** : You Only Look Once
+22. **BERT** : Bidirectional Encoder Representations from Transformers
 
 <h2>Cyber Security</h2>
 
