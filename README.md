@@ -56,6 +56,7 @@
 52. **OOP** : Object-Oriented Programming
 53. **SDLC** : Software Development Life Cycle
 54. **GPU** : Graphics Processing Unit
+55. **BLE** : Bluetooth Low Energy
 
 <h2>File Types</h2>
 
