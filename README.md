@@ -200,6 +200,7 @@
 11. **ECS** : Elastic Container Service
 12. **EKS** : Elastic Kubernetes Service
 13. **AMI** : Amazon Machine Image
+14. **BaaS** : Backend as a Service
 
 <h2>Kubernetes</h2>
 
