@@ -57,6 +57,7 @@
 53. **SDLC** : Software Development Life Cycle
 54. **GPU** : Graphics Processing Unit
 55. **BLE** : Bluetooth Low Energy
+56. **AMP** : Accelerated Mobile Pages
 
 <h2>File Types</h2>
 
