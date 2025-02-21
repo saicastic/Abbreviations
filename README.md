@@ -59,6 +59,8 @@
 55. **BLE** : Bluetooth Low Energy
 56. **AMP** : Accelerated Mobile Pages
 
+<h2>Operating System</h2>
+
 <h2>File Types</h2>
 
 1. **PDF** : Portable Document Format
