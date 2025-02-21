@@ -64,6 +64,7 @@
 1. **ALU** : Arithmetic Logic Unit
 2. **MMU** : Memory Management Unit
 3. **PCB** : Printed Circuit Board
+4. **TPU** : Tensor Processing Unit
 
 <h2>File Types</h2>
 
