@@ -334,3 +334,4 @@
 2. **BRB** : Be Right Back
 3. **YKW** : You Know What
 4. **TBH** : To Be Honest
+5. **WTF** : What the F
