@@ -61,6 +61,8 @@
 
 <h2>Operating System</h2>
 
+1. **ALU** : Arithmetic Logic Unit
+
 <h2>File Types</h2>
 
 1. **PDF** : Portable Document Format
