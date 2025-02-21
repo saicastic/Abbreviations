@@ -62,6 +62,7 @@
 <h2>Operating System</h2>
 
 1. **ALU** : Arithmetic Logic Unit
+2. **MMU** : Memory Management Unit
 
 <h2>File Types</h2>
 
