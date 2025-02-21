@@ -63,6 +63,7 @@
 
 1. **ALU** : Arithmetic Logic Unit
 2. **MMU** : Memory Management Unit
+3. **PCB** : Printed Circuit Board
 
 <h2>File Types</h2>
 
