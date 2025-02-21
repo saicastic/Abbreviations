@@ -335,3 +335,4 @@
 3. **YKW** : You Know What
 4. **TBH** : To Be Honest
 5. **WTF** : What the F
+6. **NGL** : Not Gonna Lie
