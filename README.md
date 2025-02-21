@@ -329,3 +329,5 @@
 1. **AES** : Advanced Encryption Standard
 
 <h2>Fun abbreviations</h2>
+
+1. **JK** : Just Kidding
