@@ -331,3 +331,4 @@
 <h2>Fun abbreviations</h2>
 
 1. **JK** : Just Kidding
+2. **BRB** : Be Right Back
