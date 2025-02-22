@@ -340,3 +340,4 @@
 8. **GTG** : Good to Go
 9. **IMO** : In my Opinion
 10. **LMK** : Let me Know
+11. **IDC** : I Dont Care
