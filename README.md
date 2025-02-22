@@ -341,3 +341,4 @@
 9. **IMO** : In my Opinion
 10. **LMK** : Let me Know
 11. **IDC** : I Dont Care
+12. **IDFC** : I Dont Care
