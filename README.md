@@ -338,3 +338,4 @@
 6. **NGL** : Not Gonna Lie
 7. **TTYL** : Talk to You Later
 8. **GTG** : Good to Go
+9. **IMO** : In my Opinion
