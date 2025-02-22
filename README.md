@@ -345,3 +345,4 @@
 13. **IDGAF** : I Dont Give a
 14. **DM** : Direct Message
 15. **IRL** : In Real Life
+16. **OMW** : On My Way
