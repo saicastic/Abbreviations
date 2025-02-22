@@ -336,3 +336,4 @@
 4. **TBH** : To Be Honest
 5. **WTF** : What the F
 6. **NGL** : Not Gonna Lie
+7. **TTYL** : Talk to You Later
