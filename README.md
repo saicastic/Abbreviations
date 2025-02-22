@@ -339,3 +339,4 @@
 7. **TTYL** : Talk to You Later
 8. **GTG** : Good to Go
 9. **IMO** : In my Opinion
+10. **LMK** : Let me Know
