@@ -343,3 +343,4 @@
 11. **IDC** : I Dont Care
 12. **IDFC** : I Dont Care
 13. **IDGAF** : I Dont Give a
+14. **DM** : Direct Message
