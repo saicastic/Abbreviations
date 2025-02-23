@@ -337,21 +337,22 @@
 5. **WTF** : What the F
 6. **NGL** : Not Gonna Lie
 7. **TTYL** : Talk to You Later
-8. **GTG** : Good to Go
-9. **IMO** : In my Opinion
-10. **LMK** : Let me Know
-11. **IDC** : I Dont Care
-12. **IDFC** : I Dont Care
-13. **IDGAF** : I Dont Give a
-14. **DM** : Direct Message
-15. **PM** : Private Message
-16. **IRL** : In Real Life
-17. **OMW** : On My Way
-18. **BTW** : By the Way
-19. **OMG** : Oh My God
-20. **LMAO** : Laughing My As Off
-21. **NSFW** : Not Safe For Work
-22. **IKR** : I Know Right
-23. **FOMO** : Fear Of Missing Out
-24. **STFU** : Shut the Fuck Up
-25. **NVM** : Never Mind
+8. **TTYT** : Talk to You Tomorrow
+9. **GTG** : Good to Go
+10. **IMO** : In my Opinion
+11. **LMK** : Let me Know
+12. **IDC** : I Dont Care
+13. **IDFC** : I Dont Care
+14. **IDGAF** : I Dont Give a
+15. **DM** : Direct Message
+16. **PM** : Private Message
+17. **IRL** : In Real Life
+18. **OMW** : On My Way
+19. **BTW** : By the Way
+20. **OMG** : Oh My God
+21. **LMAO** : Laughing My As Off
+22. **NSFW** : Not Safe For Work
+23. **IKR** : I Know Right
+24. **FOMO** : Fear Of Missing Out
+25. **STFU** : Shut the Fuck Up
+26. **NVM** : Never Mind
