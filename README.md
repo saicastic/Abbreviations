@@ -357,3 +357,4 @@
 25. **STFU** : Shut the Fuck Up
 26. **NVM** : Never Mind
 27. **HBU** : How About You
+28. **ILY** : I Love You
