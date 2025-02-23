@@ -347,4 +347,3 @@
 15. **IRL** : In Real Life
 16. **OMW** : On My Way
 17. **BTW** : By the Way
-18. **BTW** : By the Way
