@@ -348,3 +348,4 @@
 16. **OMW** : On My Way
 17. **BTW** : By the Way
 18. **OMG** : Oh My God
+19. **LMAO** : Laughing My As Off
