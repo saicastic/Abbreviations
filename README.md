@@ -353,3 +353,4 @@
 21. **NSFW** : Not Safe For Work
 22. **IKR** : I Know Right
 23. **FOMO** : Fear Of Missing Out
+24. **STFU** : Shut the Fuck Up
