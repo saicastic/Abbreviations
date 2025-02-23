@@ -344,8 +344,9 @@
 12. **IDFC** : I Dont Care
 13. **IDGAF** : I Dont Give a
 14. **DM** : Direct Message
-15. **IRL** : In Real Life
-16. **OMW** : On My Way
-17. **BTW** : By the Way
-18. **OMG** : Oh My God
-19. **LMAO** : Laughing My As Off
+15. **PM** : Private Message
+16. **IRL** : In Real Life
+17. **OMW** : On My Way
+18. **BTW** : By the Way
+19. **OMG** : Oh My God
+20. **LMAO** : Laughing My As Off
