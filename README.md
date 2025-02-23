@@ -356,3 +356,4 @@
 24. **FOMO** : Fear Of Missing Out
 25. **STFU** : Shut the Fuck Up
 26. **NVM** : Never Mind
+27. **HBU** : How About You
