@@ -354,3 +354,4 @@
 22. **IKR** : I Know Right
 23. **FOMO** : Fear Of Missing Out
 24. **STFU** : Shut the Fuck Up
+25. **NVM** : Never Mind
