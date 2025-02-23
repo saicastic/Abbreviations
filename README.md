@@ -351,3 +351,4 @@
 19. **OMG** : Oh My God
 20. **LMAO** : Laughing My As Off
 21. **NSFW** : Not Safe For Work
+22. **IKR** : I Know Right
