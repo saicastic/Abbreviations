@@ -371,3 +371,4 @@
 39. **AS** : As Fuck
 40. **BAE** : Before Anyone Else
 41. **BC** : Because
+42. **DAE** : Does Anyone Else ?
