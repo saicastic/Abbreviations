@@ -367,3 +367,4 @@
 35. **WYD** : What You Doing
 36. **IK** : I Know
 37. **TBF** : To Be Fair
+38. **AFAIK** : As Far As I Know
