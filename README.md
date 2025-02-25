@@ -369,3 +369,4 @@
 37. **TBF** : To Be Fair
 38. **AFAIK** : As Far As I Know
 39. **AS** : As Fuck
+40. **BAE** : Before Anyone Else
