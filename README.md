@@ -386,3 +386,4 @@
 53. **RN** : Right Now
 54. **ONF** : On My Nerves
 55. **SIMP** : Someone Obsessed Over Another
+56. **SMD** : Suck My
