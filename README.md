@@ -327,6 +327,7 @@
 <h2>Cryptography</h2>
 
 1. **AES** : Advanced Encryption Standard
+2.
 
 <h2>Fun abbreviations</h2>
 
@@ -382,3 +383,4 @@
 50. **MVP** : Most Valuable Player ( yay 50 )
 51. **MBN** : Must Be Nice
 52. **PPL** : People
+53. **RN** : Right Now
