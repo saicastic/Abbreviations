@@ -390,3 +390,4 @@
 57. **AFk** : Away From KeyBoard
 58. **BR** : Battle Royale
 59. **NPC** : Non-Player Character
+60. **PVP** : Player Versus Player
