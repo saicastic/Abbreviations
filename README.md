@@ -385,3 +385,4 @@
 52. **PPL** : People
 53. **RN** : Right Now
 54. **ONF** : On My Nerves
+55. **SIMP** : Someone Obsessed Over Another
