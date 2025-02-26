@@ -388,4 +388,3 @@
 55. **SIMP** : Someone Obsessed Over Another
 56. **SRSLY** : Seriously
 57. **AFk** : Away From KeyBoard
-58. **BR** : Battle Royale
