@@ -389,3 +389,4 @@
 56. **SRSLY** : Seriously
 57. **AFk** : Away From KeyBoard
 58. **BR** : Battle Royale
+59. **NPC** : Non-Player Character
