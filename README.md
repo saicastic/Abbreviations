@@ -391,3 +391,4 @@
 58. **QQ** : Cry More (gaming insult)
 59. **REKT** : Wrecked
 60. **RNG** : Random Number Generator
+61. **TP** : TelePort
