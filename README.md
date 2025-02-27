@@ -398,3 +398,4 @@
 65. **DPS** : Damage Per Second
 66. **EZ** : Easy Life
 67. **BG** : Bad Game
+68. **FFA** : Free for All
