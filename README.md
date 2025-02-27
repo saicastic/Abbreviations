@@ -397,3 +397,4 @@
 64. **AMA** : Ask Me Anything
 65. **DPS** : Damage Per Second
 66. **EZ** : Easy Life
+67. **BG** : Bad Game
