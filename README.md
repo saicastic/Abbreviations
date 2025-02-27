@@ -395,3 +395,4 @@
 62. **VOD** : Video On Demand
 63. **XP** : Experience Points
 64. **AMA** : Ask Me Anything
+65. **DPS** : Damage Per Second
