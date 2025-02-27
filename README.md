@@ -400,3 +400,4 @@
 67. **BG** : Bad Game
 68. **FFA** : Free for All
 69. **OP** : OverPowered
+70. **CTA** : Call To Action
