@@ -388,3 +388,4 @@
 55. **SIMP** : Someone Obsessed Over Another
 56. **SRSLY** : Seriously
 57. **AFK** : Away From KeyBoard
+58. **QQ** : Cry More (gaming insult)
