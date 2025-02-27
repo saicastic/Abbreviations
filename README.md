@@ -396,3 +396,4 @@
 63. **XP** : Experience Points
 64. **AMA** : Ask Me Anything
 65. **DPS** : Damage Per Second
+66. **EZ** : Easy Life
