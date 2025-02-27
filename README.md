@@ -389,3 +389,4 @@
 56. **SRSLY** : Seriously
 57. **AFK** : Away From KeyBoard
 58. **QQ** : Cry More (gaming insult)
+59. **REKT** : Wrecked
