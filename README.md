@@ -401,3 +401,4 @@
 68. **FFA** : Free for All
 69. **OP** : OverPowered
 70. **CTA** : Call To Action
+71. **TOS** : Terms of Service
