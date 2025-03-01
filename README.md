@@ -408,3 +408,4 @@
 75. **DEF** : Definitely
 76. **HBD** : Happy Birthday
 77. **MSG** : Message
+78. **NC** : No Comment
