@@ -406,3 +406,4 @@
 73. **BRT** : Be Right There
 74. **CMON** : Come One
 75. **DEF** : Definitely
+76. **HBD** : Happy Birthday
