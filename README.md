@@ -407,3 +407,4 @@
 74. **CMON** : Come One
 75. **DEF** : Definitely
 76. **HBD** : Happy Birthday
+77. **MSG** : Message
