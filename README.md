@@ -409,3 +409,4 @@
 76. **HBD** : Happy Birthday
 77. **MSG** : Message
 78. **NC** : No Comment
+79. **NP** : No Problem
