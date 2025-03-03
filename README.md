@@ -419,3 +419,4 @@
 86. **TLDR** : Too Long; Didn't Read
 87. **TGIF** : Thank God Its Friday
 88. **LDR** : Long Distace Relationship
+89. **NFS** : Not For Sale
