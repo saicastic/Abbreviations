@@ -415,3 +415,4 @@
 82. **WTV** : Whatever
 83. **TBA** : To Be Announced
 84. **TBC** : To Be Confirmed
+85. **SWAG** : Style With A Great Gratitude
