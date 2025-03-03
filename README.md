@@ -426,3 +426,4 @@
 93. **KIT** : Keep In Touch
 94. **OTOMH** : Off The Top Of My Head
 95. **QOTD** : Qoute Of the Day
+96. **SRY** : Sorry
