@@ -420,3 +420,4 @@
 87. **TGIF** : Thank God Its Friday
 88. **LDR** : Long Distace Relationship
 89. **NFS** : Not For Sale
+90. **OOO** : Out Of Office
