@@ -418,3 +418,4 @@
 85. **SWAG** : Style With A Great Gratitude
 86. **TLDR** : Too Long; Didn't Read
 87. **TGIF** : Thank God Its Friday
+88. **LDR** : Long Distace Relationship
