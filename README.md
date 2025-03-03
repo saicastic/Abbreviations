@@ -421,3 +421,4 @@
 88. **LDR** : Long Distace Relationship
 89. **NFS** : Not For Sale
 90. **OOO** : Out Of Office
+91. **LTNS** : Long Time No See
