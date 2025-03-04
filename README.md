@@ -430,4 +430,4 @@
 97. **TTYS** : Talk to you Soon
 98. **LOL** : Lots of Laughter
 99. **RIP** : Rest in Peace
-100. **POV** : Point Of View
+100. **POV** : Point Of View ( Yayy Its 100 )
