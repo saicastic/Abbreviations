@@ -428,3 +428,4 @@
 95. **QOTD** : Qoute Of the Day
 96. **SRY** : Sorry
 97. **TTYS** : Talk to you Soon
+98. **LOL** : Lots of Laughter
