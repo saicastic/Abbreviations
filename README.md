@@ -431,3 +431,4 @@
 98. **LOL** : Lots of Laughter
 99. **RIP** : Rest in Peace
 100. **POV** : Point Of View ( Yayy Its 100 )
+101. **SM** : Socail Media
