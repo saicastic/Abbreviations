@@ -429,3 +429,4 @@
 96. **SRY** : Sorry
 97. **TTYS** : Talk to you Soon
 98. **LOL** : Lots of Laughter
+99. **RIP** : Rest in Peace
