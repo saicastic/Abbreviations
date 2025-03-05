@@ -438,3 +438,4 @@
 105. **NPC** : Non Playing Characters
 106. **LFG** : Looking For Group
 107. **DTR** : Define the Realationship
+108. **SMH** : Shaking My Head
