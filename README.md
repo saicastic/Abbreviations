@@ -435,3 +435,4 @@
 102. **FTW** : For The Win
 103. **SUS** : Suspicious
 104. **FWB** : Friends with benefits
+105. **NPC** : Non Playing Characters
