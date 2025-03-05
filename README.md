@@ -432,4 +432,4 @@
 99. **RIP** : Rest in Peace
 100. **POV** : Point Of View ( Yayy Its 100 )
 101. **SM** : Socail Media
-102. **FTE** : For The Win
+102. **FTW** : For The Win
