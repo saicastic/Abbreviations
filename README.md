@@ -433,3 +433,4 @@
 100. **POV** : Point Of View ( Yayy Its 100 )
 101. **SM** : Socail Media
 102. **FTW** : For The Win
+103. **SUS** : Suspicious
