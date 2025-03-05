@@ -434,3 +434,4 @@
 101. **SM** : Socail Media
 102. **FTW** : For The Win
 103. **SUS** : Suspicious
+104. **FWB** : Friends with benefits
