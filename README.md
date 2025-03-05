@@ -421,14 +421,16 @@
 88. **LDR** : Long Distace Relationship
 89. **NFS** : Not For Sale
 90. **OOO** : Out Of Office
-91. **LTNS** : Long Time No See
-92. **BTWITIAILWU** : By the Way, I Think I am i Love With You
-93. **KIT** : Keep In Touch
-94. **OTOMH** : Off The Top Of My Head
-95. **QOTD** : Qoute Of the Day
-96. **SRY** : Sorry
-97. **TTYS** : Talk to you Soon
-98. **LOL** : Lots of Laughter
-99. **RIP** : Rest in Peace
-100. **POV** : Point Of View ( Yayy Its 100 )
-101. **SM** : Socail Media
+91. **LTNS** : Lon
+92. g Time No See
+93. **BTWITIAILWU** : By the Way, I Think I am i Love With You
+94. **KIT** : Keep In Touch
+95. **OTOMH** : Off The Top Of My Head
+96. **QOTD** : Qoute Of the Day
+97. **SRY** : Sorry
+98. **TTYS** : Talk to you Soon
+99. **LOL** : Lots of Laughter
+100. **RIP** : Rest in Peace
+101. **POV** : Point Of View ( Yayy Its 100 )
+102. **SM** : Socail Media
+103. **FTE** : For The Win
