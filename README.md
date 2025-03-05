@@ -439,3 +439,4 @@
 106. **LFG** : Looking For Group
 107. **DTR** : Define the Realationship
 108. **SMH** : Shaking My Head
+109. **MCM** : Man Crush Monday
