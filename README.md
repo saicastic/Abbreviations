@@ -442,3 +442,4 @@
 109. **MCM** : Man Crush Monday
 110. **KMN** : Kill Me Now
 111. **HIFW** : How I Feel When ...
+112. **OOTD** : Outfit Of the Day
