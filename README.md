@@ -457,3 +457,4 @@
 124. **PLS** : Please
 125. **PITA** : Pain In The
 126. **PFA** : Please Find Attached
+127. **NTS** : Note To Self
