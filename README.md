@@ -463,3 +463,4 @@
 130. **MIRL** : Meet In Real Life
 131. **NRN** : No Reply Necessary
 132. **ATM** : At The Moment
+133. **KISS** : Keep It Simple, Stupid
