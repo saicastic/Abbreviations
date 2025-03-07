@@ -461,3 +461,4 @@
 128. **NM** : Not Much
 129. **OTL** : Over The Line
 130. **MIRL** : Meet In Real Life
+131. **NRN** : No Reply Necessary
