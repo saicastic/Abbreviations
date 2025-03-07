@@ -464,3 +464,4 @@
 131. **NRN** : No Reply Necessary
 132. **ATM** : At The Moment
 133. **KISS** : Keep It Simple, Stupid
+134. **OD** : On Duty
