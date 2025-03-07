@@ -451,3 +451,4 @@
 118. **TIA** : Thanks in Advance
 119. **TBD** : To Be Determined
 120. **TTFN** : Tata For Now
+121. **V** : Very
