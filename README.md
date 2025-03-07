@@ -452,3 +452,4 @@
 119. **TBD** : To Be Determined
 120. **TTFN** : Tata For Now
 121. **V** : Very
+122. **S/O** : ShoutOut
