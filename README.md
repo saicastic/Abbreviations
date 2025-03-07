@@ -454,3 +454,4 @@
 121. **V** : Very
 122. **S/O** : ShoutOut
 123. **S/O** : ShootOut
+124. **PLS** : Please
