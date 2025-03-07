@@ -462,3 +462,4 @@
 129. **OTL** : Over The Line
 130. **MIRL** : Meet In Real Life
 131. **NRN** : No Reply Necessary
+132. **ATM** : At The Moment
