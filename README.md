@@ -465,3 +465,4 @@
 132. **ATM** : At The Moment
 133. **KISS** : Keep It Simple, Stupid
 134. **OD** : On Duty
+134. **KPI** : Key Performance Indicator
