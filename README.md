@@ -467,6 +467,4 @@
 134. **OD** : On Duty
 135. **KPI** : Key Performance Indicator
 
-<h2>CRYPTO<h2/>
-
 
