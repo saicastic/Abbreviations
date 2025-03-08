@@ -467,5 +467,6 @@
 134. **OD** : On Duty
 135. **KPI** : Key Performance Indicator
 136. **SNAFU** : Situation Normal, All Fucked Up
-137. **FYR** : For Your Reference 
+137. **FYR** : For Your Reference
+138. **FAQ** : Frequently asked questions 
 
