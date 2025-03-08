@@ -470,3 +470,4 @@
 137. **FYR** : For Your Reference
 138. **FAQ** : Frequently asked questions 
 139. **FBO** : Facebook Official
+140. **NSFL** : Not Safe For Life
