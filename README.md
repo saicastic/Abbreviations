@@ -469,4 +469,4 @@
 136. **SNAFU** : Situation Normal, All Fucked Up
 137. **FYR** : For Your Reference
 138. **FAQ** : Frequently asked questions 
-
+139. **FBO** : Facebook Official
