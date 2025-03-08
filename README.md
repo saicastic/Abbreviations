@@ -466,5 +466,5 @@
 133. **KISS** : Keep It Simple, Stupid
 134. **OD** : On Duty
 135. **KPI** : Key Performance Indicator
-
+136. **SNAFU** : Situation Normal, All Fucked Up
 
