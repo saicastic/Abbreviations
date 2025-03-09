@@ -487,3 +487,4 @@
 154. **CC** : Carbon Copy
 155. **CR** : Class Representative
 156. **LT** : Lecture Theatre
+157. **TIA** : Thanks For Advance
