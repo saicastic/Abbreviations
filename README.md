@@ -478,3 +478,4 @@
 145. **EOD** : End Of Day
 146. **HR** : Human Resources
 147. **PFA** : Please Find Attached
+148. **SOP** : Standard Operating Procedure
