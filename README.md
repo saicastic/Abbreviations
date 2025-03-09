@@ -475,3 +475,4 @@
 142. **RT** : ReTweet
 143. **NBD** : No Big Deal
 144. **COO** : Chief Operating Officer
+145. **EOD** : End Of Day
