@@ -482,3 +482,4 @@
 149. **CRM** : Customer Registration Management
 150. **WFH** : Work From Home
 151. **YTD** : Year To Date
+152. **POS** : Point Of Sale
