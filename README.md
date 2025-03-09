@@ -480,6 +480,6 @@
 147. **PFA** : Please Find Attached
 148. **SOP** : Standard Operating Procedure
 149. **CRM** : Customer Registration Management
-150. **WFH** : Work From Home
+150. **WFH** : Work From Home ( Yayy Century and Half )
 151. **YTD** : Year To Date
 152. **POS** : Point Of Sale
