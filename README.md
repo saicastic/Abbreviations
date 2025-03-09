@@ -488,3 +488,4 @@
 155. **CR** : Class Representative
 156. **LT** : Lecture Theatre
 157. **TIA** : Thanks For Advance
+158. **SRSLY** : Seriously
