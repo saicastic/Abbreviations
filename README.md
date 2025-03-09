@@ -474,3 +474,4 @@
 141. **TIL** : Today I Learned
 142. **RT** : ReTweet
 143. **NBD** : No Big Deal
+144. **COO** : Chief Operating Officer
