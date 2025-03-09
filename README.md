@@ -481,3 +481,4 @@
 148. **SOP** : Standard Operating Procedure
 149. **CRM** : Customer Registration Management
 150. **WFH** : Work From Home
+151. **YTD** : Year To Date
