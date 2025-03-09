@@ -468,8 +468,9 @@
 135. **KPI** : Key Performance Indicator
 136. **SNAFU** : Situation Normal, All Fucked Up
 137. **FYR** : For Your Reference
-138. **FAQ** : Frequently asked questions 
+138. **FAQ** : Frequently asked questions
 139. **FBO** : Facebook Official
 140. **NSFL** : Not Safe For Life
 141. **TIL** : Today I Learned
 142. **RT** : ReTweet
+143. **NBD** : No Big Deal
