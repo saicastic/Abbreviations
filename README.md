@@ -490,3 +490,4 @@
 157. **TIA** : Thanks For Advance
 158. **SRSLY** : Seriously
 159. **OT** : Off Topic
+160. **YMMV** : Your Mileage May vary
