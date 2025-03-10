@@ -492,3 +492,4 @@
 159. **OT** : Off Topic
 160. **YMMV** : Your Mileage May vary
 161. **HIFW** : How I Feel When
+162. **FYA** : For Your Amusement
