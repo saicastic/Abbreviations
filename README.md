@@ -491,3 +491,4 @@
 158. **SRSLY** : Seriously
 159. **OT** : Off Topic
 160. **YMMV** : Your Mileage May vary
+161. **HIFW** : How I Feel When
