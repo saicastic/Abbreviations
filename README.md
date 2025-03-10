@@ -495,3 +495,4 @@
 162. **FYA** : For Your Amusement
 163. **FYP** : For Your Page
 164. **PFP** : Profile Picture
+165. **VLSI** : Very Large Scale Integration
