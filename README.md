@@ -503,3 +503,4 @@
 2. **NISQ** : Noisy Intermediate-Scale Quantum
 3. **QC** : Quantum Computing
 4. **QKD** : Quantum Key Distribution
+5. **QUBIT** : Quantum Bit
