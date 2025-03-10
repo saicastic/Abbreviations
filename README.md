@@ -330,6 +330,7 @@
 2. **DLT** : Distributed Ledger Technology
 3. **PoS** : Proof of Stake
 4. **ICO** : Initial Coin Offering
+5. **DAO** : Decentralized Autonomous Organization
 
 <h2>Fun abbreviations</h2>
 
