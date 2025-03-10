@@ -329,6 +329,7 @@
 1. **AES** : Advanced Encryption Standard
 2. **DLT** : Distributed Ledger Technology
 3. **PoS** : Proof of Stake
+4. **ICO** : Initial Coin Offering
 
 <h2>Fun abbreviations</h2>
 
