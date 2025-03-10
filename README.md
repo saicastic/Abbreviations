@@ -500,3 +500,4 @@
 <h2>Quantum Computing</h2>
 
 1. **QPU** : Quantum Processing Unit
+2. **NISQ** : Noisy Intermediate-Scale Quantum
