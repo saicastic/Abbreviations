@@ -327,6 +327,7 @@
 <h2>Cryptography</h2>
 
 1. **AES** : Advanced Encryption Standard
+2. **DLT** : Distributed Ledger Technology
 
 <h2>Fun abbreviations</h2>
 
