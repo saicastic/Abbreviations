@@ -327,7 +327,6 @@
 <h2>Cryptography</h2>
 
 1. **AES** : Advanced Encryption Standard
-2.
 
 <h2>Fun abbreviations</h2>
 
