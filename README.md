@@ -508,6 +508,7 @@
 170. **PEBKAC** : Problem Exists Between Keyboard and Chair
 171. **ADA** : Americans with Disabilities Act
 172. **WYSIWYG** : What You See Is What Is You Get
+173. **OCR** : Optical Character Recognition
 
 <h2>Quantum Computing</h2>
 
