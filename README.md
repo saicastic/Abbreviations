@@ -504,6 +504,7 @@
 167. **TTS** : Text To Speech
 168. **RTFM** : Read The Final Manual
 169. **YAGNI** : You Aint Gonna Need It
+170. **PEBKAC** : Problem Exists Between Keyboard and Chair
 
 <h2>Quantum Computing</h2>
 
