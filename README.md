@@ -506,6 +506,7 @@
 168. **RTFM** : Read The Final Manual
 169. **YAGNI** : You Aint Gonna Need It
 170. **PEBKAC** : Problem Exists Between Keyboard and Chair
+171. **ADA** : Americans with Disabilities Act
 
 <h2>Quantum Computing</h2>
 
