@@ -501,6 +501,7 @@
 164. **PFP** : Profile Picture
 165. **VLSI** : Very Large Scale Integration
 166. **LGTM** : Looks Good To Me
+167. **TTS** : Text To Speech
 
 <h2>Quantum Computing</h2>
 
