@@ -507,7 +507,7 @@
 169. **YAGNI** : You Aint Gonna Need It
 170. **PEBKAC** : Problem Exists Between Keyboard and Chair
 171. **ADA** : Americans with Disabilities Act
-172. **WYSIWYG** : What You See is What is You Get
+172. **WYSIWYG** : What You See Is What Is You Get
 
 <h2>Quantum Computing</h2>
 
