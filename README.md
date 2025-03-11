@@ -101,6 +101,7 @@
 8. **SVG** : Scalable Vector Graphics
 9. **AJAX** : Asynchronous JavaScript and XML
 10. **SEO** : Search Engine Optimization
+11. **ARIA** : Accessible Rich Internet Applications
 
 <h2>CSS</h2>
 
