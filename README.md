@@ -524,5 +524,6 @@
 2. UNESCO – United Nations Educational, Scientific and Cultural Organization
 3. UNICEF – United Nations Children’s Fund
 4. WTO – World Trade Organization
-5. **WHO** : World Health Organisation
-6. **NASA** : National Aeronautics and Space Administration (U.S.)
+5. IMF – International Monetary Fund
+6. **WHO** : World Health Organisation
+7. **NASA** : National Aeronautics and Space Administration (U.S.)
