@@ -521,11 +521,11 @@
 <h2>Organization</h2>
 
 1. **UN** : United Nations
-2. UNESCO – United Nations Educational, Scientific and Cultural Organization
-3. UNICEF – United Nations Children’s Fund
-4. WTO – World Trade Organization
-5. IMF – International Monetary Fund
-6. WB – World Bank Group
-7. FAO – Food and Agriculture Organization
+2. **UNESCO** : United Nations Educational, Scientific and Cultural Organization
+3. **UNICEF** : United Nations Children’s Fund
+4. **WTO** : World Trade Organization
+5. **IMF** : International Monetary Fund
+6. **WB** : World Bank Group
+7. **FAO** : Food and Agriculture Organization
 8. **WHO** : World Health Organisation
 9. **NASA** : National Aeronautics and Space Administration (U.S.)
