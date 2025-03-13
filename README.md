@@ -535,3 +535,4 @@
 13. **ICRC** : International Committee of the Red Cross
 14. **ROSCOSMOS** : Russian Space Agency
 15. **ADB** : Asian Development Bank
+16. **WWF** : World Wide Fund for Nature
