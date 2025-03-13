@@ -534,3 +534,4 @@
 12. **ESA** : European Space Agency
 13. **ICRC** : International Committee of the Red Cross
 14. **ROSCOSMOS** : Russian Space Agency
+15. **ADB** : Asian Development Bank
