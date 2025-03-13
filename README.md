@@ -536,3 +536,4 @@
 14. **ROSCOSMOS** : Russian Space Agency
 15. **ADB** : Asian Development Bank
 16. **WWF** : World Wide Fund for Nature
+17. **ISRO** : Indian Space Research Organisation
