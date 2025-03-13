@@ -538,3 +538,4 @@
 16. **WWF** : World Wide Fund for Nature
 17. **ISRO** : Indian Space Research Organisation
 18. **CNSA** : China National Space Administration
+19. **JAXA** : Japan Aerospace Exploration Agency
