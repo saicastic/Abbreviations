@@ -549,3 +549,4 @@
 27. **HRW** : Human Rights Watch
 28. **AI** : Amnesty International
 29. **ITU** : International Telecom Union
+30. **ICJ** : International Court of Justice
