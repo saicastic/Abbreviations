@@ -550,3 +550,4 @@
 28. **AI** : Amnesty International
 29. **ITU** : International Telecom Union
 30. **ICJ** : International Court of Justice
+31. **ASET** : Amity School Of Engineering and Technology
