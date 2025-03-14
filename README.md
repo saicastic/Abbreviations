@@ -548,3 +548,4 @@
 26. **ICAO** : International Civil Aviation Organisation
 27. **HRW** : Human Rights Watch
 28. **AI** : Amnesty International
+29. **ITU** : International Telecom Union
