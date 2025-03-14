@@ -551,3 +551,4 @@
 29. **ITU** : International Telecom Union
 30. **ICJ** : International Court of Justice
 31. **ASET** : Amity School Of Engineering and Technology
+32. **ASL** : Amity School of Languages
