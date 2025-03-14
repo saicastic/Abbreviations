@@ -541,3 +541,4 @@
 19. **JAXA** : Japan Aerospace Exploration Agency
 20. **FBI** : Federal Bereau of Investigation
 21. **WMO** : World Meteorological Organisation
+22. **UPU** : Universal Postal Union
