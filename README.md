@@ -555,3 +555,4 @@
 33. **ISO** : International Organisation of Standardization
 34. **IEEE** : Institute of Electrical and Electronics Engineers
 35. **WIPO** : World Intellectual Property Organisation
+36. **EU** : European Union
