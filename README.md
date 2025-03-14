@@ -553,3 +553,4 @@
 31. **ASET** : Amity School Of Engineering and Technology
 32. **ASL** : Amity School of Languages
 33. **ISO** : International Organisation of Standardization
+34. **IEEE** : Institute of Electrical and Electronics Engineers
