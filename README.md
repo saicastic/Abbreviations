@@ -544,3 +544,4 @@
 22. **UPU** : Universal Postal Union
 23. **UNIDO** : United Nations Industrial Development Organisation
 24. **IOM** : International Organisation of Migration
+25. **IMO** : International Maritime Organisation
