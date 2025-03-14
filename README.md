@@ -543,3 +543,4 @@
 21. **WMO** : World Meteorological Organisation
 22. **UPU** : Universal Postal Union
 23. **UNIDO** : United Nations Industrial Development Organisation
+24. **IOM** : International Organisation of Migration
