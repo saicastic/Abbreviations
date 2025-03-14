@@ -556,3 +556,4 @@
 34. **IEEE** : Institute of Electrical and Electronics Engineers
 35. **WIPO** : World Intellectual Property Organisation
 36. **EU** : European Union
+37. **AU** : African Union
