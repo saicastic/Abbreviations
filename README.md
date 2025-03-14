@@ -554,3 +554,4 @@
 32. **ASL** : Amity School of Languages
 33. **ISO** : International Organisation of Standardization
 34. **IEEE** : Institute of Electrical and Electronics Engineers
+35. **WIPO** : World Intellectual Property Organisation
