@@ -577,3 +577,4 @@
 11. **AFC** : Asian Football Confederation
 12. **WTA** : Women's Tennis Association
 13. **PGA** : Professional Golfers' Association
+14. **ATP** : Association of Tennis Professional
