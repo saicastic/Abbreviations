@@ -576,4 +576,3 @@
 10. **ISL** : Indian Super League
 11. **AFC** : Asian Football Confederation
 12. **WTA** : Women's Tennis Association
-13. **PGA** : Professional Golfers' Association
