@@ -570,7 +570,7 @@
 4. **MLB** : Major League Baseball
 5. **NBA** : National Basketball Association
 6. **ICC** : International Cricket Council
-7. **F!** : Formula 1
+7. **F1** : Formula 1
 8. **NHL** : National Hockey League
 9. **PKL** : Pro Kabbadi League
 10. **ISL** : Indian Super League
