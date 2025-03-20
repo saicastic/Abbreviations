@@ -573,4 +573,3 @@
 7. **F1** : Formula 1
 8. **NHL** : National Hockey League
 9. **PKL** : Pro Kabaddi League
-10. **IPL** : Indian Premier League
