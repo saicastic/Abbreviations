@@ -574,3 +574,4 @@
 8. **NHL** : National Hockey League
 9. **PKL** : Pro Kabbadi League
 10. **ISL** : Indian Super League
+11. **AFC** : Asian Football Confederation
