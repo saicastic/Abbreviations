@@ -574,3 +574,4 @@
 8. **NHL** : National Hockey League
 9. **PKL** : Pro Kabbadi League
 10. **BBL** : Big Bash League
+11. **PSL** : Pakistan Super League
